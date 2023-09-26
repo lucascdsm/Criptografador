@@ -1,3 +1,5 @@
+![Criptografia](https://github.com/lucascdsm/Criptografador/assets/117050739/62d2c288-0afd-410d-8f5d-c1f427df8943)
+
 # Criptografador
 Uma aplicação web simples e intuitiva para criptografar e descriptografar textos usando o algoritmo AES-256. Insira o texto e uma senha para proteger suas mensagens.
 
@@ -12,3 +14,5 @@ Insira o texto que deseja criptografar no campo "Texto".
 Digite uma senha no campo "Senha". Esta senha será usada para criptografar e descriptografar o texto.
 Clique no botão "Criptografar" para transformar o texto em uma forma criptografada.
 Para descriptografar, cole o texto criptografado no campo "Resultado" e digite a mesma senha no campo "Senha". Clique no botão "Descriptografar" para recuperar o texto original.
+
+
